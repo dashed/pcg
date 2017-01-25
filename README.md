@@ -1,3 +1,5 @@
+# NOTE: this is my personal clone of https://github.com/codahale/pcg with my own additions (use at your own peril)
+
 # pcg
 [![Docs](https://img.shields.io/badge/docs-written-blue.svg)](http://codahale.github.io/pcg/pcg/)
 [![Build Status](https://travis-ci.org/codahale/pcg.svg)](https://travis-ci.org/codahale/pcg)
